@@ -1,0 +1,81 @@
+h1, h2 {
+    color: #0069D9;
+}
+.current-temp{
+    font-size: 70px;
+    font-weight: 500;
+    margin: 0;
+    color:#0069D9;
+}
+
+.city{
+    color:#0069D9;
+    font-weight: 500;
+}
+
+.container-frame {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 1px;
+    border-radius: 5px;
+    color: grey;
+    padding: 50px;
+}
+
+.current-weather-image-border, .current-weather-temp-border {
+    border : solid 1px;
+    border-radius: 5px;
+    color: grey;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    size: 269px;
+}
+
+
+
+.card-text, .card-title, .card-body{
+    text-align: center;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.card-img-top{
+padding: 5px;
+display: block;
+margin: 0 auto;
+width: 100px;
+}
+.future-weather{
+    padding: 5px;
+}
+
+.content-box{
+    margin: 0 auto;
+    box-sizing: content-box;
+    padding:5px;
+    width: 260px;
+    height: 180px;
+    border:solid 1px;
+    border-radius: 5px;
+    color: grey;
+    text-align: center;
+    position: static;
+}
+
+.weather-overview-today{
+    color: #FCC21B;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 0;
+
+}
+.temp-today{
+    margin: 0;
+    color: grey;
+}
+.current-weather-image{
+    display: block;
+    margin: 0 auto;
+}
+
